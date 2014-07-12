@@ -1,0 +1,9 @@
+package com.GODZmum.letsModReboot.block;
+
+public class BlockFlag extends BlockLetsModReboot {
+
+	public BlockFlag(){
+		super();
+		this.setBlockName("blockFlag")
+	}
+}

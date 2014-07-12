@@ -1,0 +1,15 @@
+package com.GODZmum.letsModReboot.init;
+
+import com.GODZmum.letsModReboot.block.BlockFlag;
+import com.GODZmum.letsModReboot.block.BlockLetsModReboot;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModBlocks {
+
+	public static final BlockLetsModReboot flag = new BlockFlag();
+
+	public static void init() {
+		GameRegistry.registerBlock(flag, "Flag block");
+	}
+}

@@ -1,8 +1,0 @@
-package com.GODZmum.firstMod;
-
-import cpw.mods.fml.common.Mod;
-
-@Mod();
-public class FirstMod {
-
-}

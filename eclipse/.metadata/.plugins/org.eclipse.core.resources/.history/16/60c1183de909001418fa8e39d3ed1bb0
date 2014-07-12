@@ -1,0 +1,5 @@
+package com.GODZmum.letsModReboot.block;
+
+public class BlockLetsModReboot extends Block{
+
+}

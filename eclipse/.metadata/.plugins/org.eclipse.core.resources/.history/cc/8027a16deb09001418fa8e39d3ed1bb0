@@ -1,0 +1,8 @@
+package com.GODZmum.letsModReboot.init;
+
+import com.GODZmum.letsModReboot.block.BlockLetsModReboot;
+
+public class ModBlocks {
+
+	public static final BlockLetsModReboot flag = new BlockFlag;
+}

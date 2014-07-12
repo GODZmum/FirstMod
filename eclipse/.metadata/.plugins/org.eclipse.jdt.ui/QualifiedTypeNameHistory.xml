@@ -17,9 +17,15 @@
 <fullyQualifiedTypeName name="org.apache.logging.log4j.Level"/>
 <fullyQualifiedTypeName name="com.GODZmum.firstMod.utilities.LogHelper"/>
 <fullyQualifiedTypeName name="net.minecraft.item.Item"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="com.GODZmum.firstMod.init.ModItems"/>
-<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
 <fullyQualifiedTypeName name="com.GODZmum.firstMod.reference.Reference"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="com.GODZmum.letsModReboot.block.BlockFlag"/>
+<fullyQualifiedTypeName name="com.GODZmum.letsModReboot.init.ModBlocks"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry.ObjectHolder"/>
+<fullyQualifiedTypeName name="com.GODZmum.letsModReboot.reference.Reference"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
 </qualifiedTypeNameHistroy>
