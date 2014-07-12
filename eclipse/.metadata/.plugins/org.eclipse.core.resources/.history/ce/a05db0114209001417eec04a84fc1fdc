@@ -1,0 +1,13 @@
+package com.GODZmum.firstMod.init;
+
+import main.java.com.GODZmum.firstMod.item.ItemFirstMod;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems {
+
+	public static final ItemFirstMod mapleLeaf = new MapleLeaf();
+			
+			public static void init(){
+		GameRegistry.registerItem(MapleLeaf, "mapleLeaf");
+	}
+}

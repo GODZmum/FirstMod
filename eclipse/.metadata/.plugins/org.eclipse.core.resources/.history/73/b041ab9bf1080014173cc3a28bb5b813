@@ -1,0 +1,6 @@
+package com.GODZmum.firstMod.reference;
+
+public class Reference {
+
+	public static final String MOD_ID = "FirstMod";
+}

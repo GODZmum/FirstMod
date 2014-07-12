@@ -1,0 +1,9 @@
+package com.GODZmum.firstMod.configuration;
+
+
+public class ConfigurationHandler {
+
+	public static void init(File configFile){
+		 
+	}
+}

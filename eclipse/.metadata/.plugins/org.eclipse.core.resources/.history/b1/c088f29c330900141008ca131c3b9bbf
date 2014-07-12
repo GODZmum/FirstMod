@@ -1,0 +1,18 @@
+[
+{
+  "modid": "FirstMod",
+  "name": "First Mod",
+  "description": "GODZmum's First mod",
+  "version": "1.7.10-1.0",
+  "credits": "Created by GODZmum",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "GODZmum"],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+]
+}

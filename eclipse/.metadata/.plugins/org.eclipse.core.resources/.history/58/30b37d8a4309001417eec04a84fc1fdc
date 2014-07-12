@@ -1,0 +1,10 @@
+package com.GODZmum.firstMod.item;
+
+public class ItemMapleLeaf extends ItemFirstMod{
+
+	
+	public ItemMapleLeaf(){
+		super();
+		this.setCreativeTab(tabToDisplayOn);
+	}
+}

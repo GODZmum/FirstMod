@@ -1,0 +1,5 @@
+package com.GODZmum.firstMod;
+
+public class GuiFactory implements IModGuiFactory{
+
+}

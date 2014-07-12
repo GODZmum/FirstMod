@@ -1,0 +1,17 @@
+package com.GODZmum.firstMod;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid="FirstMod", name="First Mod", version="1.7.10-1.0")
+public class FirstMod {
+	
+	
+	@Mod.EventHandler
+	public void preInit(FMLPreinitializationEvent){
+		
+	}
+	
+	
+	
+
+}

@@ -1,0 +1,24 @@
+package com.GODZmum.firstMod.item;
+
+import com.GODZmum.firstMod.reference.Reference;
+
+import net.minecraft.item.Item;
+
+public class ItemFirstMod extends Item{
+
+	public ItemFirstMod(){
+		super();
+	}
+	@Override
+public String getUnlocalizedName(){
+		return String.format("item.%s%s" , Reference.MOD_ID.toLowerCase(), getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+	}
+
+	public String getUnlocalizedName(ItemStack itemStack){
+		return String.format("item.%s%s" , Reference.MOD_ID.toLowerCase(), getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+	}
+	
+	protected String getUnwrappedUnlocalizedName(String unlocalizedName){
+		return unlocalizedName.substring(unlocalizedName.indexOf(".")+1);
+	}
+}
