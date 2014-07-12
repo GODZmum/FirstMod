@@ -1,7 +1,0 @@
-package com.GODZmum.letsModReboot.block;
-
-import net.minecraft.block.Block;
-
-public class BlockLetsModReboot extends Block{
-
-}

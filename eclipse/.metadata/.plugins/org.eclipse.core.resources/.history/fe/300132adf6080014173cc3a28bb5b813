@@ -1,8 +1,0 @@
-package com.GODZmum.firstMod.configuration;
-
-import com.sun.java.util.jar.pack.Package.File;
-
-public class ConfigurationHandler {
-
-	public static void init(File configFile);
-}
